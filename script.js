@@ -6,8 +6,8 @@
   To keep the number fixed, set AUTO_COUNT to false.
 */
 const CONFIG = {
-  START_DAY: 4,
-  START_DATE: "2026-10-15",
+  START_DAY: 5,
+  START_DATE: "2026-10-18",
   AUTO_COUNT: true
 };
 
